@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Task-Dice/static/css/main.da60ae81.css",
-    "main.js": "/Task-Dice/static/js/main.6ba4e0ac.js",
+    "main.js": "/Task-Dice/static/js/main.1aa5ddad.js",
     "static/js/787.0c14500b.chunk.js": "/Task-Dice/static/js/787.0c14500b.chunk.js",
     "static/media/dice 6.png": "/Task-Dice/static/media/dice 6.7b69f0d94f45b4731db5.png",
     "static/media/dice 4.png": "/Task-Dice/static/media/dice 4.22cf3df975560bdb405d.png",
@@ -10,11 +10,11 @@
     "static/media/dice 2.png": "/Task-Dice/static/media/dice 2.f9946d468b5459a505ad.png",
     "index.html": "/Task-Dice/index.html",
     "main.da60ae81.css.map": "/Task-Dice/static/css/main.da60ae81.css.map",
-    "main.6ba4e0ac.js.map": "/Task-Dice/static/js/main.6ba4e0ac.js.map",
+    "main.1aa5ddad.js.map": "/Task-Dice/static/js/main.1aa5ddad.js.map",
     "787.0c14500b.chunk.js.map": "/Task-Dice/static/js/787.0c14500b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da60ae81.css",
-    "static/js/main.6ba4e0ac.js"
+    "static/js/main.1aa5ddad.js"
   ]
 }
