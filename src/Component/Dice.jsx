@@ -17,7 +17,7 @@ function change(){
 }
 function change2(){
 
-  setImage( massive[Math.floor(Math.random() * massive.length)])
+  setImage2( massive[Math.floor(Math.random() * massive.length)])
 }
 
 
