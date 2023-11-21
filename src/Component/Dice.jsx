@@ -9,6 +9,7 @@ import dice5 from '../Images/dice 5.png'
 import dice6 from '../Images/dice 6.png'
 const Dice = () => {
   let massive = [dice1 , dice2 , dice3 , dice4 , dice5 ,dice6]
+  
 const [image , setImage] = useState(dice3)
 const [image2 , setImage2] = useState(dice2)
 function change(){
